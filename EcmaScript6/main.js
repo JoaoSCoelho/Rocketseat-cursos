@@ -1,15 +1,3 @@
-alert('test');
+import { soma } from './funcoes.js';
 
-class Teste {
-  metodo() {
-
-  }
-
-  outro() {
-
-  }
-
-  maisum() {
-    
-  }
-}
+console.log(soma(1, 2))
